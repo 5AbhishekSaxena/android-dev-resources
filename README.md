@@ -1,10 +1,23 @@
 # Android Development Resources
 
 
-## Android Development with Jetpack Compose
+## <a name="table-of-contents"></a>Table of Contents
+
+- [Android Development with Jetpack Compose](#android-development-with-jetpack-compose)
+  -  [Topics](#android-development-with-jetpack-compose-topics)
+  -  [Resources](#android-development-with-jetpack-compose-resources)
+- [Android Development with View Based](#android-development-with-view-based)
+  -  [Topics](#android-development-with-view-based-topics)
+  -  [Resources](#android-development-with-view-based-resources)
+- [Others/Good to Know Resources](#others-good-to-know)
+- [Legacy Android Development using Java](#android-development-using-java)
+  -  [Resources](#legacy-android-development-using-java)
+
+## <a name="android-development-with-jetpack-compose"></a>Android Development with Jetpack Compose <sup>[Back ⇈](#table-of-contents)</sup>
 
 Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 
+#### <a name="android-development-with-jetpack-compose-topics"></a>Topics <sup>[Back ⇈](#table-of-contents)</sup>
 - Prerequisites
   - Programming Language
   -	IDE
@@ -16,6 +29,11 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
         -	Box, etc
     -	App Interactions
     -	User Input/Output
+    - State
+    - Side Effects
+      - LaunchEffect
+      - SideEffects
+      - DisposableEffect
     -	App Navigation using Compose Navigation
     -	Activity/Fragment Lifecycle
     -	App Architecture – MVVM pattern
@@ -38,21 +56,33 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   -	Maps
   -	Testing
   
-  ### Resources
-- Android Basics with Compose by Google - https://developer.android.com/courses/android-basics-compose/course
-- Jetpack Compose for Android Developers for Experienced Developers by Google - https://developer.android.com/courses/jetpack-compose/course
-- Youtube
-  - Stevdza San - https://www.youtube.com/c/StevdzaSan
-  -	Simplified Coding (Belal Khan GDE Android)- https://www.youtube.com/c/SimplifiedcodingNetOfficial/featured
-  -	Coding In Flow - https://www.youtube.com/c/CodinginFlow
-  -	Coding With Mitch - https://www.youtube.com/c/CodingWithMitch/featured
-  -	Philip Lackner (Good for Jetpack Compose content only and learn with caution) - https://www.youtube.com/c/PhilippLackner/featured
-- Github
-  - Jetpack Compose is Awesome - https://github.com/jetpack-compose/jetpack-compose-awesome
-  - Sample Apps by Google - https://github.com/android/compose-samples#jetpack-compose-samples-Video
+  ### <a name="android-development-with-jetpack-compose-resources"></a>Resources <sup>[Back ⇈](#table-of-contents)</sup>
+  - Kotlin
+    -	Video
+        -	Udacity - https://learn.udacity.com/courses/ud9011
+        -	Simplified Coding – Basics, OOPS
+        -	Official Docs - https://kotlinlang.org/docs/basic-syntax.html
+        -	Learning Material by JetBrains - https://kotlinlang.org/docs/learning-materials-overview.html
+        -	Java to Kotlin - https://github.com/MindorksOpenSource/from-java-to-kotlin
+    -	Java to Kotlin using IDE (1-to-1 conversion)
+      -	Create a Java file and write the code in Java.
+      -	Press Ctrl + Alt + Shift + K or Code > Convert Java file to Kotlin File -Android Development
+- Android
+  - Android Basics with Compose by Google - https://developer.android.com/courses/android-basics-compose/course
+  - Jetpack Compose for Android Developers for Experienced Developers by Google - https://developer.android.com/courses/jetpack-compose/course
+  - Youtube
+    - Stevdza San - https://www.youtube.com/c/StevdzaSan
+    -	Simplified Coding (Belal Khan GDE Android)- https://www.youtube.com/c/SimplifiedcodingNetOfficial/featured
+    -	Coding In Flow - https://www.youtube.com/c/CodinginFlow
+    -	Coding With Mitch - https://www.youtube.com/c/CodingWithMitch/featured
+    -	Philip Lackner (Good for Jetpack Compose content only and learn with caution) - https://www.youtube.com/c/PhilippLackner/featured
+  - Github
+    - Jetpack Compose is Awesome - https://github.com/jetpack-compose/jetpack-compose-awesome
+    - Sample Apps by Google - https://github.com/android/compose-samples#jetpack-compose-samples-Video
   
-## Android Learning Path (Modern Android Development)
+## <a name="android-development-with-view-based"></a>Android Development with View Based <sup>[Back ⇈](#table-of-contents)</sup>
 
+### <a name="android-development-with-view-based-topics"></a>Topics <sup>[Back ⇈](#table-of-contents)</sup>
 - Prerequisites
   - Programming Language
   -	IDE
@@ -94,9 +124,9 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   -	Maps
   -	Testing
 
-### Resources
+### <a name="android-development-with-view-based-resources"></a>Resources <sup>[Back ⇈](#table-of-contents)</sup>
 
-- Kotlin
+- Kotlin (Same as above)
   -	Video
       -	Udacity - https://learn.udacity.com/courses/ud9011
       -	Simplified Coding – Basics, OOPS
@@ -117,13 +147,15 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   -	Text based
     -	Android Basics in Kotlin - https://developer.android.com/courses/android-basics-kotlin/course-List of all training material by Android Team (Very useful for both novice and experienced learners) - https://developer.android.com/courses
 
-### Others/Good to know
+### <a name="others-good-to-know"></a>Others/Good to know <sup>[Back ⇈](#table-of-contents)</sup>
 - Official Android Channel - https://www.youtube.com/c/AndroidDevelopers-Live stream/Twitch
 -	Adam McNeilly (GDE Android) - https://www.youtube.com/c/AdamMcNeilly
 -	Coding with Italians - https://www.youtube.com/c/CodewiththeItalians
 
-### Legacy Android Development using Java-Udacity (Google)
--	Basics - https://www.udacity.com/course/new-android-fundamentals--ud851
--	Advance - https://learn.udacity.com/courses/ud855
+### <a name="android-development-using-java"></a>Legacy Android Development using Java <sup>[Back ⇈](#table-of-contents)</sup>
+### <a name="legacy-android-development-using-java"></a>Resources <sup>[Back ⇈](#table-of-contents)</sup>
+- Udacity (Google)
+  -	Basics - https://www.udacity.com/course/new-android-fundamentals--ud851
+  -	Advance - https://learn.udacity.com/courses/ud855
 
 **NOTE-** Please note that you can find a codelab for each of the lesson in the above two courses - https://codelabs.developers.google.com/?product=android 
