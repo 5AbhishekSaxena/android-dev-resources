@@ -60,7 +60,9 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   - Kotlin
     -	Video
         -	Udacity - https://learn.udacity.com/courses/ud9011
-        -	Simplified Coding – Basics(https://www.youtube.com/playlist?list=PLk7v1Z2rk4hgD4teEDp2cMntnH3sR4D3D), OOPS(https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL)
+        -	Simplified Coding
+            - Basics - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hgD4teEDp2cMntnH3sR4D3D
+            - OOPS - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL
         -	Official Docs - https://kotlinlang.org/docs/basic-syntax.html
         -	Learning Material by JetBrains - https://kotlinlang.org/docs/learning-materials-overview.html
         -	Java to Kotlin - https://github.com/MindorksOpenSource/from-java-to-kotlin
@@ -129,7 +131,9 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 - Kotlin (Same as above)
   -	Video
       -	Udacity - https://learn.udacity.com/courses/ud9011
-      -	Simplified Coding – Basics(https://www.youtube.com/playlist?list=PLk7v1Z2rk4hgD4teEDp2cMntnH3sR4D3D), OOPS(https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL)
+      -	Simplified Coding 
+        - Basics - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hgD4teEDp2cMntnH3sR4D3D
+        - OOPS - https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL
       -	Official Docs - https://kotlinlang.org/docs/basic-syntax.html
       -	Learning Material by JetBrains - https://kotlinlang.org/docs/learning-materials-overview.html
       -	Java to Kotlin - https://github.com/MindorksOpenSource/from-java-to-kotlin
