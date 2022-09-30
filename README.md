@@ -41,11 +41,16 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   ### Resources
 - Android Basics with Compose by Google - https://developer.android.com/courses/android-basics-compose/course
 - Jetpack Compose for Android Developers for Experienced Developers by Google - https://developer.android.com/courses/jetpack-compose/course
-- Sample Apps by Google - https://github.com/android/compose-samples#jetpack-compose-samples-Video
+- Youtube
+  - Stevdza San - https://www.youtube.com/c/StevdzaSan
   -	Simplified Coding (Belal Khan GDE Android)- https://www.youtube.com/c/SimplifiedcodingNetOfficial/featured
   -	Coding In Flow - https://www.youtube.com/c/CodinginFlow
   -	Coding With Mitch - https://www.youtube.com/c/CodingWithMitch/featured
   -	Philip Lackner (Good for Jetpack Compose content only and learn with caution) - https://www.youtube.com/c/PhilippLackner/featured
+- Github
+  - Jetpack Compose is Awesome - https://github.com/jetpack-compose/jetpack-compose-awesome
+  - Sample Apps by Google - https://github.com/android/compose-samples#jetpack-compose-samples-Video
+  
 ## Android Learning Path (Modern Android Development)
 
 - Prerequisites
