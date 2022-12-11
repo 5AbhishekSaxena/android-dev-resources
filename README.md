@@ -6,10 +6,10 @@
 - [Android Development with Jetpack Compose](#android-development-with-jetpack-compose)
   -  [Topics](#android-development-with-jetpack-compose-topics)
   -  [Resources](#android-development-with-jetpack-compose-resources)
+  -  [Others/Good to Know Resources](#others-good-to-know)
 - [Android Development with View Based](#android-development-with-view-based)
   -  [Topics](#android-development-with-view-based-topics)
   -  [Resources](#android-development-with-view-based-resources)
-- [Others/Good to Know Resources](#others-good-to-know)
 - [Legacy Android Development using Java](#android-development-using-java)
   -  [Resources](#legacy-android-development-using-java)
 
@@ -81,6 +81,11 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
   - Github
     - Jetpack Compose is Awesome - https://github.com/jetpack-compose/jetpack-compose-awesome
     - Sample Apps by Google - https://github.com/android/compose-samples#jetpack-compose-samples-Video
+    - Learn Jetpack Compose By Example - https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
+  - <a name="others-good-to-know"></a>Others/Good to know <sup>[Back ⇈](#table-of-contents)</sup>
+    - Official Android Channel - https://www.youtube.com/c/AndroidDevelopers-Live stream/Twitch
+    -	Adam McNeilly (GDE Android) - https://www.youtube.com/c/AdamMcNeilly
+    -	Coding with Italians - https://www.youtube.com/c/CodewiththeItalians
   
 ## <a name="android-development-with-view-based"></a>Android Development with View Based <sup>[Back ⇈](#table-of-contents)</sup>
 
@@ -150,11 +155,6 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
     -	Google Android - https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB
   -	Text based
     -	Android Basics in Kotlin - https://developer.android.com/courses/android-basics-kotlin/course-List of all training material by Android Team (Very useful for both novice and experienced learners) - https://developer.android.com/courses
-
-### <a name="others-good-to-know"></a>Others/Good to know <sup>[Back ⇈](#table-of-contents)</sup>
-- Official Android Channel - https://www.youtube.com/c/AndroidDevelopers-Live stream/Twitch
--	Adam McNeilly (GDE Android) - https://www.youtube.com/c/AdamMcNeilly
--	Coding with Italians - https://www.youtube.com/c/CodewiththeItalians
 
 ### <a name="android-development-using-java"></a>Legacy Android Development using Java <sup>[Back ⇈](#table-of-contents)</sup>
 ### <a name="legacy-android-development-using-java"></a>Resources <sup>[Back ⇈](#table-of-contents)</sup>
