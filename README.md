@@ -147,7 +147,9 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
     -	Press Ctrl + Alt + Shift + K or Code > Convert Java file to Kotlin File -Android Development
 - Android
   -	Video based
-    -	Udacity (Google)-Basics - https://learn.udacity.com/courses/ud9012-Advance - https://learn.udacity.com/courses/ud940
+    -	Udacity (Google)
+        - Basics - https://learn.udacity.com/courses/ud9012
+        - Advance - https://learn.udacity.com/courses/ud940
     - Google's MAD playlist - https://www.youtube.com/playlist?list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7
     -	Simplified Coding (Belal Khan GDE Android)- https://www.youtube.com/c/SimplifiedcodingNetOfficial/featured
     -	Coding In Flow - https://www.youtube.com/c/CodinginFlow
